@@ -1,1 +1,3 @@
 file present in feature branch
+This is updated content of file2 in feature branch
+
