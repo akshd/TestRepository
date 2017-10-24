@@ -1,1 +1,3 @@
 file present in feature branch
+This includes readme stuff.
+Features contains both file1 and file2.
