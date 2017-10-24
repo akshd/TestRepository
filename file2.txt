@@ -1,3 +1,7 @@
 file present in feature branch
+
 This includes readme stuff.
 Features contains both file1 and file2.
+This is updated content of file2 in feature branch
+contents were kept for both the branches.
+
